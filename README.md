@@ -14,7 +14,7 @@
   <img align="center" alt="AWS Service" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div><br/>
 
-Atualmente cursando Análise de Dados pela Ebac, utilizo essa plataforma para compartilhar projetos. Aqui, você encontrá um repositório do curso repleto de exercícios e projetos que exploram os princípios  e técnicas dessa emocionante área. Este perfil é um reflexo do meu comprometimento com análise de dados e o desejo de aplicar esse conhecimento para resolver problemas do mundo real. Sendo assim vocês poderão acompanhar minha evolução como análista de dados.
+Utilizo essa plataforma para compartilhar projetos. Aqui, você encontrá repositórios que exploram os princípios  e técnicas dessa emocionante área. Este perfil é um reflexo do meu comprometimento com análise de dados e o desejo de aplicar esse conhecimento para resolver problemas do mundo real. Sendo assim vocês poderão acompanhar minha evolução como análista de dados.
 
 ## Emails para contato:
 
