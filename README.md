@@ -14,8 +14,11 @@
   <img align="center" alt="AWS Service" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div><br/>
 
-Utilizo essa plataforma para compartilhar projetos. Aqui, você encontrá repositórios que exploram os princípios  e técnicas dessa emocionante área. Este perfil é um reflexo do meu comprometimento com análise de dados e o desejo de aplicar esse conhecimento para resolver problemas do mundo real. Sendo assim vocês poderão acompanhar minha evolução como análista de dados.
+Sou estudante de Ciência de Dados na FIAP, com foco em transformar dados em soluções estratégicas. Possuo certificações em Modelagem, Programação, Qualidade de Dados e Arquitetura de Analytics e Big Data. Além disso, concluí um curso completo de Analista de Dados, onde aprimorei minhas habilidades em Python, SQL, Power BI e ferramentas de visualização e análise.
 
+Atualmente, estou em busca da minha primeira oportunidade na área, com muita vontade de aplicar meus conhecimentos em projetos reais, aprender com os desafios do dia a dia e crescer profissionalmente.
+
+Aqui no GitHub, você vai encontrar meus projetos acadêmicos, estudos pessoais e experimentos com análise de dados, machine learning e visualização. 
 ## Emails para contato:
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](higorsilva10322@gmail.com)
